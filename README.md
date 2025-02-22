@@ -15,7 +15,6 @@ This application provides basic arithmetic operations (+, -, \*, /) in a clean g
 *   Addition, subtraction, multiplication, and division.
 *   Clear input field.
 *   User-friendly interface.
-*   *(Optional: Responsive design, Cross-platform compatibility)*
 
 ## How to Run
 
