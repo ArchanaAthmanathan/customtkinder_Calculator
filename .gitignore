@@ -5,6 +5,9 @@ dist/
 build/
 .venv/
 *.spec
+resources.rc
+resources.res
+rsrc_windows.exe
 .DS_Store  # For macOS users
 Thumbs.db  # For Windows users
 *.log      # If you have any log files
