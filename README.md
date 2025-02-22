@@ -25,7 +25,7 @@ This application provides basic arithmetic operations (+, -, \*, /) in a clean g
 5.  `pip install -r requirements.txt`
 6.  `python calculator/main.py`
 
-## How to Build (Optional)
+## How to Build 
 
 1.  `pip install pyinstaller`
 2.  `python build.py`
@@ -39,10 +39,6 @@ This application provides basic arithmetic operations (+, -, \*, /) in a clean g
 ## License
 
 MIT License - see [LICENSE](LICENSE)
-
-## Author
-
-Archana Athmanathan
 
 ## Acknowledgements
 
